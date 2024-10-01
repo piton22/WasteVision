@@ -8,6 +8,10 @@
 tg: [@be_G0R](https://t.me/be_G0R)  
 GitHub: [b3GOR](https://github.com/b3GOR)
 
+- Ткачев Дмитрий  
+tg: [@dvtkachev](https://t.me/dvtkachev)  
+GitHub: [piton22](https://github.com/piton22)
+
 
 
 ## О чем проект
